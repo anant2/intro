@@ -2,4 +2,4 @@ Hello!!
 
 With a successful track record in software development, I have developed and implemented web-based applications using Java technologies and JavaScript libraries, enhancing user experiences and improving efficiency. I have spearheaded the development of web-based, clientserver, and distributed architecture applications using Java Technologies and JavaScript libraries for diverse clients, contributing to both front-end and back-end development. I have successfully transitioned monolithic applications to microservices architecture for clients in the Telecommunication and Healthcare sectors. I have played a key role in DevOps, ensuring seamless integration between systems and maintaining data consistency. I have managed the crucial integration flow between multiple systems, ensuring data consistency and smooth operations. I have migrated services from old frameworks to Spring Boot microservices, improving performance and scalability.
 
-![image]([https://github.com/anant2/anant2/assets/18414030/6dd28eab-e51c-4567-976c-dd6dd0764daf](https://www.linkedin.com/in/anant-majhi-9b5633135/))
+![image]([(https://www.linkedin.com/in/anant-majhi-9b5633135/)])
